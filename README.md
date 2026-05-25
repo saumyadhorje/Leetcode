@@ -102,6 +102,7 @@ This repository  contains my solutions to various leetcode problems.
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4284-smallest-stable-index-i](https://github.com/sau30/Leetcode/tree/master/4284-smallest-stable-index-i) |
+| [4295-count-indices-with-opposite-parity](https://github.com/sau30/Leetcode/tree/master/4295-count-indices-with-opposite-parity) |
 ## Binary Search
 |  |
 | ------- |
