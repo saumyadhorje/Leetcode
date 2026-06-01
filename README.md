@@ -322,6 +322,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sau30/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sau30/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sau30/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sau30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sau30/Leetcode/tree/master/0143-reorder-list) |
@@ -532,6 +533,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0100-same-tree](https://github.com/sau30/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sau30/Leetcode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sau30/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -546,6 +548,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0098-validate-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sau30/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sau30/Leetcode/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sau30/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -559,6 +562,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0100-same-tree](https://github.com/sau30/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sau30/Leetcode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sau30/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -571,6 +575,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0100-same-tree](https://github.com/sau30/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sau30/Leetcode/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sau30/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
