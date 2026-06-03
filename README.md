@@ -146,6 +146,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sau30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sau30/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -297,6 +298,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -540,6 +542,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -553,6 +556,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -569,6 +573,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -578,6 +583,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sau30/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
