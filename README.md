@@ -81,6 +81,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/sau30/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sau30/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -275,6 +276,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2714-left-and-right-sum-differences](https://github.com/sau30/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
