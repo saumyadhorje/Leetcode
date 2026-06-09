@@ -101,6 +101,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3952-trionic-array-i](https://github.com/sau30/Leetcode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/sau30/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
@@ -435,6 +436,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4005-maximum-total-subarray-value-i](https://github.com/sau30/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
 | ------- |
