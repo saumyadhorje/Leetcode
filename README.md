@@ -554,6 +554,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -572,6 +573,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -590,6 +592,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sau30/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
