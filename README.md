@@ -104,6 +104,7 @@ This repository  contains my solutions to various leetcode problems.
 | [4005-maximum-total-subarray-value-i](https://github.com/sau30/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
 | [4284-smallest-stable-index-i](https://github.com/sau30/Leetcode/tree/master/4284-smallest-stable-index-i) |
 | [4295-count-indices-with-opposite-parity](https://github.com/sau30/Leetcode/tree/master/4295-count-indices-with-opposite-parity) |
@@ -211,6 +212,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3636-check-balanced-string](https://github.com/sau30/Leetcode/tree/master/3636-check-balanced-string) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
+| [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
 ## Sliding Window
 |  |
@@ -534,6 +536,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/sau30/Leetcode/tree/master/3651-transformed-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
 ## Trie
 |  |
