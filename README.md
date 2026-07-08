@@ -572,6 +572,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sau30/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -595,6 +596,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sau30/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -619,6 +621,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sau30/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -647,6 +650,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sau30/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
