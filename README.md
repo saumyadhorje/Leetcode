@@ -504,6 +504,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sau30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sau30/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/sau30/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/sau30/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/sau30/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -752,6 +753,10 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sau30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/sau30/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->
