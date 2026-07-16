@@ -147,6 +147,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0217-contains-duplicate](https://github.com/sau30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sau30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sau30/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sau30/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sau30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sau30/Leetcode/tree/master/0389-find-the-difference) |
@@ -196,6 +197,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0165-compare-version-numbers](https://github.com/sau30/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sau30/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sau30/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sau30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sau30/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sau30/Leetcode/tree/master/0392-is-subsequence) |
@@ -311,6 +313,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0179-largest-number](https://github.com/sau30/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sau30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sau30/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sau30/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sau30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sau30/Leetcode/tree/master/0389-find-the-difference) |
