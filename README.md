@@ -89,6 +89,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/sau30/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -134,6 +135,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -177,6 +179,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sau30/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sau30/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -277,6 +280,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sau30/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
