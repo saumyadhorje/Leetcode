@@ -77,6 +77,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sau30/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sau30/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -501,6 +502,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sau30/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/sau30/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/sau30/Leetcode/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sau30/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sau30/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3336-water-bottles-ii](https://github.com/sau30/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -760,6 +762,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sau30/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sau30/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
