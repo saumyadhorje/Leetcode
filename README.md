@@ -356,6 +356,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sau30/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3859-maximum-product-of-two-digits](https://github.com/sau30/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Linked List
@@ -512,6 +513,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sau30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sau30/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3859-maximum-product-of-two-digits](https://github.com/sau30/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sau30/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/sau30/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/sau30/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
