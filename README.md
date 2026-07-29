@@ -19,6 +19,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sau30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sau30/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/sau30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sau30/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
@@ -264,6 +265,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sau30/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sau30/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sau30/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sau30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sau30/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sau30/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sau30/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -295,6 +297,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sau30/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sau30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
@@ -412,6 +415,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sau30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sau30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sau30/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -486,6 +490,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sau30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
