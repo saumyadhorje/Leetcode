@@ -63,6 +63,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -310,6 +311,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0392-is-subsequence](https://github.com/sau30/Leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sau30/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sau30/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -513,6 +515,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/sau30/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sau30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
@@ -791,6 +794,18 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sau30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->
