@@ -813,6 +813,10 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->
