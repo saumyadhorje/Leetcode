@@ -63,6 +63,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/sau30/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
@@ -143,6 +144,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0540-single-element-in-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/sau30/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
