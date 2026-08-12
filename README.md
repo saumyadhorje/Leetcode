@@ -102,6 +102,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/sau30/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sau30/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sau30/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -194,6 +195,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sau30/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sau30/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sau30/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sau30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -259,6 +261,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sau30/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sau30/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
