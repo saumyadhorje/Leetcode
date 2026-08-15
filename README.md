@@ -122,6 +122,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/sau30/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sau30/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
@@ -563,6 +564,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sau30/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sau30/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
