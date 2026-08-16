@@ -1,16 +1,30 @@
 class Solution {
 public:
-    int findContentChildren(std::vector<int>& g, std::vector<int>& s) {
-        std::sort(g.begin(), g.end());
-        std::sort(s.begin(), s.end());
-        int contentChildren = 0;
-        int cookieIndex = 0;
-        while (cookieIndex < s.size() && contentChildren < g.size()) {
-            if (s[cookieIndex] >= g[contentChildren]) {
-                contentChildren++;
+    int findContentChildren(vector<int>& g, vector<int>& s) {
+        int n=s.size();//no of cookies
+        int m=g.size();
+        sort(s.begin(),s.end());
+        sort(g.begin(),g.end());
+        int i=0;//cookie
+        int j=0;//greed
+        int count=0;
+        while(i<n&&j<m)
+        {
+            if(s[i]>=g[j])
+            {
+                count++;
+                i++;
+                j++;
             }
-            cookieIndex++;
+            else if(s[i]<g[j])
+            {
+                i++;
+            }
+            else
+            {
+                j++;
+            }
         }
-        return contentChildren;
+        return count;
     }
 };
