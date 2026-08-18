@@ -113,6 +113,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/sau30/Leetcode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/sau30/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -202,6 +203,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sau30/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sau30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/sau30/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
