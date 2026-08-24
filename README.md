@@ -742,6 +742,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0620-not-boring-movies](https://github.com/sau30/Leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/sau30/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/sau30/Leetcode/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/sau30/Leetcode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sau30/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sau30/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/sau30/Leetcode/tree/master/1827-invalid-tweets) |
