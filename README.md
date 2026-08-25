@@ -126,6 +126,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/sau30/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sau30/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/sau30/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
@@ -210,6 +211,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/sau30/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
