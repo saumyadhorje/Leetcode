@@ -420,6 +420,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0908-middle-of-the-linked-list](https://github.com/sau30/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sau30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sau30/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
