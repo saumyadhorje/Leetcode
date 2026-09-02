@@ -7,8 +7,9 @@
  * };
  */
 class Solution {
-public:
+public: //use hashmap , if val exists return true 
     bool hasCycle(ListNode *head) {
+        
        ListNode*slow=head;
        ListNode*fast=head;
        while(fast!=nullptr&& fast->next!=nullptr){
