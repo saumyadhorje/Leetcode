@@ -67,6 +67,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0907-koko-eating-bananas](https://github.com/sau30/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/sau30/Leetcode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sau30/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -545,6 +546,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0445-add-two-numbers-ii](https://github.com/sau30/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sau30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
+| [0944-smallest-range-i](https://github.com/sau30/Leetcode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
