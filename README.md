@@ -546,6 +546,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/sau30/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sau30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/sau30/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/sau30/Leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/sau30/Leetcode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
@@ -876,6 +877,10 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sau30/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/sau30/Leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->
