@@ -100,6 +100,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sau30/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sau30/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/sau30/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -199,6 +200,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sau30/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/sau30/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
