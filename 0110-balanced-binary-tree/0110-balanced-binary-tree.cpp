@@ -1,26 +1,38 @@
 class Solution {
 public:
 
-    int height(TreeNode* root) {
-        if (root == nullptr) return 0;
+    pair<bool, int> isBalancedFast(TreeNode* root) {
 
-        int lh = height(root->left);
-        int rh = height(root->right);
+        if (root == nullptr) {
+            pair<bool, int> p = make_pair(true, 0);
+            return p;
+        }
 
-        return 1 + max(lh, rh);
+        pair<bool, int> left = isBalancedFast(root->left);
+        pair<bool, int> right = isBalancedFast(root->right);
+
+        //first me balance dekhenge
+        bool leftAns = left.first;
+        bool rightAns = right.first;
+
+        //second me height calc hogi
+        bool diff = abs(left.second - right.second) <= 1;
+
+        pair<bool, int> ans;
+
+        ans.second = max(left.second, right.second) + 1;
+
+        if (leftAns && rightAns && diff) {
+            ans.first = true;
+        }
+        else {
+            ans.first = false;
+        }
+
+        return ans;
     }
 
     bool isBalanced(TreeNode* root) {
-        if (root == nullptr) return true;
-
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-
-        int diff = abs(height(root->left) - height(root->right));
-
-        if (left && right && diff <= 1)
-            return true;
-        else
-            return false;
+        return isBalancedFast(root).first;
     }
 };
