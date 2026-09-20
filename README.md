@@ -264,6 +264,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sau30/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3636-check-balanced-string](https://github.com/sau30/Leetcode/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/sau30/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
@@ -635,6 +636,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sau30/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/sau30/Leetcode/tree/master/3651-transformed-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/sau30/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
