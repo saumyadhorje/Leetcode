@@ -123,6 +123,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/sau30/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/sau30/Leetcode/tree/master/3952-trionic-array-i) |
@@ -571,6 +572,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3676-smallest-number-with-all-set-bits](https://github.com/sau30/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3859-maximum-product-of-two-digits](https://github.com/sau30/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/sau30/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sau30/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sau30/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/sau30/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
