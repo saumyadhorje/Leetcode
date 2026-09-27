@@ -497,6 +497,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0155-min-stack](https://github.com/sau30/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sau30/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sau30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sau30/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -673,6 +674,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sau30/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -728,6 +730,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/sau30/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sau30/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -759,6 +762,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0501-find-mode-in-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sau30/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Database
 |  |
@@ -790,6 +794,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sau30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sau30/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sau30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -846,6 +851,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sau30/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 ## Backtracking
 |  |
