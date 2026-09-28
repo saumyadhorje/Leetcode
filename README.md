@@ -249,6 +249,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1297-maximum-number-of-balloons](https://github.com/sau30/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1542-consecutive-characters](https://github.com/sau30/Leetcode/tree/master/1542-consecutive-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sau30/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sau30/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/sau30/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sau30/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -467,6 +468,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0735-asteroid-collision](https://github.com/sau30/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sau30/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sau30/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -919,6 +921,10 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sau30/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sau30/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->
