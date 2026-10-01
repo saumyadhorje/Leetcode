@@ -24,6 +24,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sau30/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sau30/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sau30/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -629,6 +630,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sau30/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sau30/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sau30/Leetcode/tree/master/0735-asteroid-collision) |
@@ -822,6 +824,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0036-valid-sudoku](https://github.com/sau30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sau30/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sau30/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0864-image-overlap](https://github.com/sau30/Leetcode/tree/master/0864-image-overlap) |
