@@ -230,6 +230,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0008-string-to-integer-atoi](https://github.com/sau30/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sau30/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/sau30/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sau30/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/sau30/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -543,6 +544,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0002-add-two-numbers](https://github.com/sau30/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sau30/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/sau30/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sau30/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
@@ -632,6 +634,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sau30/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sau30/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sau30/Leetcode/tree/master/0657-robot-return-to-origin) |
