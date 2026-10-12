@@ -109,6 +109,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/sau30/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/sau30/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sau30/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -618,6 +619,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1656-count-good-triplets](https://github.com/sau30/Leetcode/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/sau30/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/sau30/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/sau30/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
