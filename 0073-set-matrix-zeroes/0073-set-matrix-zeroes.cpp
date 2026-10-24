@@ -1,26 +1,42 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
+        bool firstrow = false;
+        bool firstcol = false;
 
-        vector<int> row(m, 0), col(n, 0);
+        // Step 1: Set markers
+        for(int i = 0; i < matrix.size(); i++) {
+            for(int j = 0; j < matrix[0].size(); j++) {
+                if(matrix[i][j] == 0) {
+                    if(i == 0) firstrow = true;
+                    if(j == 0) firstcol = true;
 
-        // mark rows & cols
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    row[i] = 1;
-                    col[j] = 1;
+                    matrix[0][j] = 0;
+                    matrix[i][0] = 0;
                 }
             }
         }
 
-        // set zeros
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (row[i] == 1 || col[j] == 1)
+        // Step 2: Traverse the inner matrix
+        for(int i = 1; i < matrix.size(); i++) {
+            for(int j = 1; j < matrix[0].size(); j++) {
+                if(matrix[i][0] == 0 || matrix[0][j] == 0) {
                     matrix[i][j] = 0;
+                }
+            }
+        }
+
+        // Step 3: Make the first row zero if needed
+        if(firstrow) {
+            for(int j = 0; j < matrix[0].size(); j++) {
+                matrix[0][j] = 0;
+            }
+        }
+
+        // Step 4: Make the first column zero if needed
+        if(firstcol) {
+            for(int i = 0; i < matrix.size(); i++) {
+                matrix[i][0] = 0;
             }
         }
     }
