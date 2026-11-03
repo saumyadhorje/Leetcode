@@ -140,6 +140,7 @@ This repository  contains my solutions to various leetcode problems.
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sau30/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sau30/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/sau30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4216-weighted-word-mapping](https://github.com/sau30/Leetcode/tree/master/4216-weighted-word-mapping) |
 | [4281-score-validator](https://github.com/sau30/Leetcode/tree/master/4281-score-validator) |
@@ -597,6 +598,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sau30/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sau30/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/sau30/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/sau30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4168-mirror-distance-of-an-integer](https://github.com/sau30/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
