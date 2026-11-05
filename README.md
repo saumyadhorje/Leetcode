@@ -83,6 +83,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1256-rank-transform-of-an-array](https://github.com/sau30/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sau30/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sau30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -166,6 +167,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sau30/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sau30/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/sau30/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -330,6 +332,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0908-middle-of-the-linked-list](https://github.com/sau30/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sau30/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -399,6 +402,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1222-remove-covered-intervals](https://github.com/sau30/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/sau30/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sau30/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sau30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/sau30/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
