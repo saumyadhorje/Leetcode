@@ -115,6 +115,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2714-left-and-right-sum-differences](https://github.com/sau30/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sau30/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sau30/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/sau30/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sau30/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -276,6 +277,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sau30/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sau30/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3194-find-words-containing-character](https://github.com/sau30/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/sau30/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sau30/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
